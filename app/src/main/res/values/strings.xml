@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Hello world</string>
+    <string name="app_name">Aplicacion JD</string>
+    <string name="Edit_message">Please, enter a message</string>
+    <string name="button_send">Send</string>
 </resources>
